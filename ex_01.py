@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-
+j=1
 
 
 """ # tf.__version__
